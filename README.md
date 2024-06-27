@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi I'm liulog 👋
 
+- 🌱 I’m currently learning RISC-V & System Virtualization
+- 📫 How to reach me: 2537738252@qq.com
 <!--
 **liulog/liulog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=liulog&amp;show_icons=true" alt="GitHub Stats"></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
