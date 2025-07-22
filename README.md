@@ -11,7 +11,7 @@
 
 ## 🔍 About Me
 
-- 🎓 HUST => ICT,CAS & UCAS
+- 🎓 From HUST to ICT,CAS & UCAS
 - 🔭 hvisor: a Rust Hypervisor for mission-critical system
 - 🌱 `RISC-V`, `Virtualization`, `Hypervisor`
 
@@ -58,9 +58,9 @@
 
 ## 📌 Currently Learning / Exploring
 
-- ✅ RISC-V 架构
-- ✅ 虚拟化（Trap-and-Emulate）
-- ✅ 裸机编程（Bare-metal）
+- ✅ RISC-V Arch
+- ✅ Virtualization
+- ✅ Bare-metal
 - ⏳ Next: Rust-based Hypervisor
 
 ---
@@ -69,6 +69,7 @@
 
 <p align="left">
   <a href="mailto:liujingyu24s@ict.ac.cn"><img src="https://img.shields.io/badge/Email-liujingyu24s@ict.ac.cn-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:liujinhy@gmail.com"><img src="https://img.shields.io/badge/Email-liujinhy@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="mailto:2537738252@qq.com"><img src="https://img.shields.io/badge/Email-2537738252@qq.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/liulog"><img src="https://img.shields.io/badge/GitHub-liulog-181717?style=flat-square&logo=github"></a>
   <!-- 可加博客 / Gitee / CSDN / RSS / 推特等 -->
