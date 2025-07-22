@@ -1,26 +1,82 @@
-## Hi I'm liulog 👋
-
-- 🔭 I’m currently working on [hvisor](https://github.com/syswonder/hvisor)
-- 🌱 I’m currently learning RISC-V & System Virtualization
-- 📫 How to reach me: 2537738252@qq.com
-<!--
-**liulog/liulog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=liulog&amp;show_icons=true" alt="GitHub Stats"></p>
+<!-- header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20liulog!&fontSize=40&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Systems+Programming+Enthusiast;RISC-V+%7C+Virtualization+Learner;Minimalist+Hypervisor+Builder;Open+Source+Contributor" />
+</p>
+
+---
+
+## 🔍 About Me
+
+- 🎓 HUST => ICT,CAS & UCAS
+- 🔭 hvisor: a Rust Hypervisor for mission-critical system
+- 🌱 `RISC-V`, `Virtualization`, `Hypervisor`
+
+---
+
+## 🚀 Projects
+
+### Featured
+- [🔧 hvisor](https://github.com/syswonder/hvisor) – A Rust Hypervisor for mission-critical system.
+- [📦 11482_cardio_guidance_Taraus](https://github.com/liulog/11482_cardio_guidance_Taraus) - An AIOT application's AI processing part.
+
+<details>
+
+- [Easyloader](https://github.com/liulog/easyloader) - Embed kernel, dtb & initrd into one binary image.
+- [Debug_upd_VOFA](https://github.com/liulog/Debug_udp_VOFA) - VOFA's udp demo for host computer.
+- **...**
+
+</details>
+
+---
+
+## 🧠 Tech Stack
+
+**Languages & Tools:**  
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/QEMU-FFFFFF?style=flat&logo=qemu&logoColor=black" />
+  <img src="https://img.shields.io/badge/RISC--V-000000?style=flat&logo=riscv&logoColor=white" />
+  <!-- Add more: Assembly, Git, Linux, etc. -->
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liulog&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=liulog&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 Currently Learning / Exploring
+
+- ✅ RISC-V 架构
+- ✅ 虚拟化（Trap-and-Emulate）
+- ✅ 裸机编程（Bare-metal）
+- ⏳ Next: Rust-based Hypervisor
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="mailto:liujingyu24s@ict.ac.cn"><img src="https://img.shields.io/badge/Email-liujingyu24s@ict.ac.cn-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:2537738252@qq.com"><img src="https://img.shields.io/badge/Email-2537738252@qq.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/liulog"><img src="https://img.shields.io/badge/GitHub-liulog-181717?style=flat-square&logo=github"></a>
+  <!-- 可加博客 / Gitee / CSDN / RSS / 推特等 -->
+</p>
+
+---
+
+<!-- footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
