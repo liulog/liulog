@@ -21,7 +21,9 @@
 
 ### Featured
 - [🔧 hvisor](https://github.com/syswonder/hvisor) – A Rust Hypervisor for mission-critical system.
-- [📦 11482_cardio_guidance_Taraus](https://github.com/liulog/11482_cardio_guidance_Taraus) - An AIOT application's AI processing part.
+- [🔧 llaisys](https://github.com/liulog/llaisys) - An AI infer system written from scratch, currently supporting Qwen2.
+- [🔧 11482_cardio_guidance_Taraus](https://github.com/liulog/11482_cardio_guidance_Taraus) - An AIOT application's AI processing part.
+
 
 <details>
 
