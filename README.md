@@ -13,7 +13,8 @@
 
 - 🎓 From HUST to ICT,CAS & UCAS
 - 🔭 hvisor: a Rust Hypervisor for mission-critical system
-- 🌱 `RISC-V`, `Virtualization`, `Hypervisor`
+- 🔭 llaisys: an AI infer system written from scratch
+- 🌱 `RISC-V`, `Virtualization`, `Hypervisor`, `AI Infer`
 
 ---
 
@@ -41,8 +42,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/QEMU-FFFFFF?style=flat&logo=qemu&logoColor=black" />
   <img src="https://img.shields.io/badge/RISC--V-000000?style=flat&logo=riscv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white" />
   <!-- Add more: Assembly, Git, Linux, etc. -->
 </p>
 
@@ -63,6 +66,8 @@
 - ✅ RISC-V Arch
 - ✅ Virtualization
 - ✅ Bare-metal
+- ✅ Cuda
+- ✅ AI Infer
 - ⏳ Next: Rust-based Hypervisor
 
 ---
