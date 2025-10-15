@@ -24,12 +24,8 @@
 - [🔧 hvisor](https://github.com/syswonder/hvisor) – A Rust Hypervisor for mission-critical system.
 - [🔧 llaisys](https://github.com/liulog/llaisys) - An AI infer system written from scratch, currently supporting Qwen2.
 - [🔧 11482_cardio_guidance_Taraus](https://github.com/liulog/11482_cardio_guidance_Taraus) - An AIOT application's AI processing part.
-
-
-<details>
-
-- [Easyloader](https://github.com/liulog/easyloader) - Embed kernel, dtb & initrd into one binary image.
-- [Debug_upd_VOFA](https://github.com/liulog/Debug_udp_VOFA) - VOFA's udp demo for host computer.
+- [🔧 Easyloader](https://github.com/liulog/easyloader) - Embed kernel, dtb & initrd into one binary image.
+- [🔧 Debug_upd_VOFA](https://github.com/liulog/Debug_udp_VOFA) - VOFA's udp demo for host computer.
 - **...**
 
 </details>
