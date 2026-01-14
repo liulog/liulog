@@ -22,6 +22,10 @@
 
 ### Featured
 - [🔧 hvisor](https://github.com/syswonder/hvisor) – A Rust Hypervisor for mission-critical system.
+- [🔧 hvboot](https://github.com/syswonder/hvboot) - UEFI bootloader for hvisor.
+- [🔧 hvisor-tool]https://github.com/syswonder/hvisor-tool) - Hvisor tool for root linux, includes CLI, Virtio daemon and hvisor kernel module.
+- [🔧 riscv-vcpu](https://github.com/arceos-hypervisor/riscv_vcpu) - vCpu for RISC-V: virtualization support under riscv64 architecture.
+- [🔧 riscv-vplic](https://github.com/arceos-hypervisor/riscv_vplic) - vPLIC for RISC-V: used for axvisor.
 - [🔧 llaisys](https://github.com/liulog/llaisys) - An AI infer system written from scratch, currently supporting Qwen2.
 - [🔧 11482_cardio_guidance_Taraus](https://github.com/liulog/11482_cardio_guidance_Taraus) - An AIOT application's AI processing part.
 - [🔧 Easyloader](https://github.com/liulog/easyloader) - Embed kernel, dtb & initrd into one binary image.
