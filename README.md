@@ -11,10 +11,9 @@
 
 ## 🔍 About Me
 
-- 🎓 From HUST to ICT,CAS & UCAS
-- 🔭 hvisor: a Rust Hypervisor for mission-critical system
-- 🔭 llaisys: an AI infer system written from scratch
-- 🌱 `RISC-V`, `Virtualization`, `Hypervisor`, `AI Infer`
+- 🎓 **Education**: Ph.D. student at ICT, CAS & UCAS | B.S. from HUST
+- ♋ **Traits**: Cancer — meticulous and driven by curiosity
+- � **Focus**: `RISC-V`, `Virtualization`, `Hypervisor`, `Inference`, `System Security`
 
 ---
 
@@ -30,9 +29,8 @@
 - [🔧 11482_cardio_guidance_Taraus](https://github.com/liulog/11482_cardio_guidance_Taraus) - An AIOT application's AI processing part.
 - [🔧 Easyloader](https://github.com/liulog/easyloader) - Embed kernel, dtb & initrd into one binary image.
 - [🔧 Debug_upd_VOFA](https://github.com/liulog/Debug_udp_VOFA) - VOFA's udp demo for host computer.
+- [🔧 asterinas](https://github.com/asterinas/asterinas) - A safe OS kernel written in Rust.
 - **...**
-
-</details>
 
 ---
 
@@ -54,7 +52,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liulog&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=liulog&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=liulog&theme=tokyonight&hide_border=true" />
 </p>
@@ -67,8 +65,8 @@
 - ✅ Virtualization
 - ✅ Bare-metal
 - ✅ Cuda
-- ✅ AI Infer
-- ⏳ Next: Rust-based Hypervisor
+- ✅ Inference
+- ⏳ Next: System Security
 
 ---
 
@@ -79,6 +77,7 @@
   <a href="mailto:liujinhy@gmail.com"><img src="https://img.shields.io/badge/Email-liujinhy@gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="mailto:2537738252@qq.com"><img src="https://img.shields.io/badge/Email-2537738252@qq.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/liulog"><img src="https://img.shields.io/badge/GitHub-liulog-181717?style=flat-square&logo=github"></a>
+  <a href="https://space.bilibili.com/1078937143"><img src="https://img.shields.io/badge/Bilibili-1078937143-00A1D6?style=flat-square&logo=bilibili&logoColor=white"></a>
   <!-- 可加博客 / Gitee / CSDN / RSS / 推特等 -->
 </p>
 
