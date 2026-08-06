@@ -23,13 +23,16 @@
 - [🔧 hvisor](https://github.com/syswonder/hvisor) – A Rust hypervisor for mission-critical systems
 - [🔧 hvboot](https://github.com/syswonder/hvboot) – UEFI bootloader for hvisor
 - [🔧 hvisor-tool](https://github.com/syswonder/hvisor-tool) – Root Linux tooling: CLI, Virtio daemon, and kernel module
+- [🔧 llaisys](https://github.com/liulog/llaisys) – An AI inference system from scratch (currently Qwen2)
+- [🔧 11482_cardio_guidance_Taraus](https://github.com/liulog/11482_cardio_guidance_Taraus) – AI processing for an AIoT cardio guidance app
+- [🔧 Debug_udp_VOFA](https://github.com/liulog/Debug_udp_VOFA) – VOFA UDP demo for host-side debugging
 - [🔧 riscv-vcpu](https://github.com/arceos-hypervisor/riscv_vcpu) – RISC-V vCPU for riscv64 virtualization
 - [🔧 riscv-vplic](https://github.com/arceos-hypervisor/riscv_vplic) – RISC-V vPLIC for axvisor
 - [🔧 Easyloader](https://github.com/liulog/easyloader) – Embed kernel, DTB & initrd into one binary image
 - [🔧 asterinas](https://github.com/asterinas/asterinas) – A safe OS kernel written in Rust
-- [🔧 Debug_udp_VOFA](https://github.com/liulog/Debug_udp_VOFA) – VOFA UDP demo for host-side debugging
-- [🔧 llaisys](https://github.com/liulog/llaisys) – An AI inference system from scratch (currently Qwen2)
-- [🔧 11482_cardio_guidance_Taraus](https://github.com/liulog/11482_cardio_guidance_Taraus) – AI processing for an AIoT cardio guidance app
+- [🔧 Nanodet_Inference_OpenVINO](https://github.com/liulog/Nanodet_Inference_OpenVINO) – NanoDet inference with OpenVINO
+- [🔧 Flybird-FPGA-RISCV](https://github.com/liulog/Flybird-FPGA-RISCV) – Flappy Bird on FPGA with RISC-V
+- [🔧 learnmodule](https://github.com/liulog/learnmodule) – Notes and demos from systems learning
 
 ---
 
@@ -48,11 +51,14 @@
 **Systems & Tools**  
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/WSL-0A66C2?style=flat&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/QEMU-FFFFFF?style=flat&logo=qemu&logoColor=black" />
   <img src="https://img.shields.io/badge/RISC--V-000000?style=flat&logo=riscv&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Makefile-427819?style=flat&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" />
 </p>
 
